@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "ibnu21.com.netcache"
+        applicationId "ibnu21.com.retrofitroom"
         minSdkVersion 22
         targetSdkVersion 26
         versionCode 1
